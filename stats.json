@@ -1,0 +1,283 @@
+{
+    "HungerGames": {
+        "displayName": "Blitz Survival Games",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "wins": "Wins",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills",
+                    "deaths"
+                ]
+            }
+        }
+    },
+    "Walls3": {
+        "displayName": "MegaWalls",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "finalKills": "Final Kills",
+            "finalDeaths": "Final Deaths",
+            "wins": "Wins",
+            "losses": "Losses",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills",
+                    "deaths"
+                ]
+            },
+            "k/d2": {
+                "display": "FinalKill/FinalDeath Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "finalKills",
+                    "finalDeaths"
+                ]
+            },
+            "w/l": {
+                "display": "Win/Loss Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "wins",
+                    "losses"
+                ]
+            }
+        }
+    },
+    "Walls": {
+        "displayName": "Walls",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "wins": "Wins",
+            "losses": "Losses",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills",
+                    "deaths"
+                ]
+            },
+            "w/l": {
+                "display": "Win/Loss Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "wins",
+                    "losses"
+                ]
+            }
+        }
+    },
+    "Arena": {
+        "displayName": "Arena",
+        "displayedFields": {
+            "coins": "Coins",
+            "rating": "Rating",
+            "kills_2v2": "Kills 2v2",
+            "kills_4v4": "Kills 4v4",
+            "deaths_2v2": "Deaths 2v2",
+            "deaths_4v4": "Deaths 4v4",
+            "wins_2v2": "Wins 2v2",
+            "wins_4v4": "Wins 4v4",
+            "losses_2v2": "Losses 2v2",
+            "losses_4v4": "Losses 4v4",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio 2v2",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills_2v2",
+                    "deaths_2v2"
+                ]
+            },
+            "k/d2": {
+                "display": "Kill/Death Ratio 4v4",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills_4v4",
+                    "deaths_4v4"
+                ]
+            },
+            "w/l": {
+                "display": "Win/Loss Ratio 2v2",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "wins_2v2",
+                    "losses_2v2"
+                ]
+            },
+            "w/l2": {
+                "display": "Win/Loss Ratio 4v4",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "wins_4v4",
+                    "losses_4v4"
+                ]
+            }
+        }
+    },
+    "Arcade": {
+        "displayName": "Arcade",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills_dayone": "Kills Blocking Dead",
+            "kills_dragonwars2": "Kills Dragonwars",
+            "kills_oneinthequiver": "Kills Bounty Hunter",
+            "kills_throw_out": "Kills Throw Out",
+            "poop_collected": "Poop Collected",
+            "headshots_dayone": "Headshots Blocking Dead",
+            "wins_dayone": "Wins Blocking Dead",
+            "wins_dragonwars2": "Wins Dragonwars",
+            "wins_ender": "Wins Enderspleef",
+            "wins_farm_hunt": "Wins Farm Hunt",
+            "wins_oneinthequiver": "Wins Bounty Hunter",
+            "wins_party": "Wins Party Games 1",
+            "wins_party_2": "Wins Party Games 2",
+            "wins_throw_out": "Wins Throw Out"
+        }
+    },
+    "Paintball": {
+        "displayName": "Paintball",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "killstreaks": "Killstreaks",
+            "shots_fired": "Shots Fired",
+            "wins": "Wins",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills",
+                    "deaths"
+                ]
+            },
+            "shots/kill": {
+                "display": "Shots/Kill Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "shots_fired",
+                    "kills"
+                ]
+            }
+        }
+    },
+    "MCGO": {
+        "displayName": "Cops and Crims",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "killsNew": "Kills",
+            "deaths": "Deaths",
+            "game_wins": "Game Wins",
+            "round_wins": "Round Wins",
+            "headshot_kills": "Headshots",
+            "shots_fired": "Shots Fired",
+            "cop_kills": "Cop Kills",
+            "criminal_kills": "Criminal Kills",
+            "bombs_planted": "Bombs Planted",
+            "bombs_defused": "Bombs Defused",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "killsNew",
+                    "deaths"
+                ]
+            }
+        }
+    },
+    "TNTGames": {
+        "displayName": "TNTGames",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills_capture": "Wizard Kills",
+            "deaths_capture": "Wizard Deaths",
+            "deaths_bowspleef": "Deaths Bowspleef",
+            "wins_bowspleef": "Wins Bowspleef",
+            "wins_capture": "Wins Wizards",
+            "wins_tntag": "Wins TNT Tag",
+            "wins_tntrun": "Wins TNT Run",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio Wizards",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills_capture",
+                    "deaths_capture"
+                ]
+            }
+        }
+    },
+    "VampireZ": {
+        "displayName": "VampireZ",
+        "displayedFields": {
+            "coins": "Coins",
+            "human_kills": "Human Kills",
+            "human_deaths": "Human Deaths",
+            "human_wins": "Human Wins",
+            "vampire_kills": "Vampire Kills",
+            "vampire_deaths": "Vampire Deaths",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio Human",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "human_kills",
+                    "human_deaths"
+                ]
+            },
+            "k/d2": {
+                "display": "Kill/Death Ratio Vampire",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "vampire_kills",
+                    "vampire_deaths"
+                ]
+            }
+        }
+    },
+    "Quake": {
+        "displayName": "Quake",
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "wins": "Wins",
+            "trigger": "Trigger",
+            "spacer": 1,
+            "k/d": {
+                "display": "Kill/Death Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills",
+                    "deaths"
+                ]
+            },
+            "w/l": {
+                "display": "Win/Loss Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "wins",
+                    "losses"
+                ]
+            }
+        }
+    }
+}
