@@ -1,0 +1,605 @@
+{
+    "HungerGames": {
+        "kitprices": [
+            0,
+            100,
+            1000,
+            2000,
+            4000,
+            16000,
+            50000,
+            100000,
+            250000,
+            1000000
+        ],
+        "kits": {
+            "Armorer": {},
+            "Meat Master": {
+                "dbname": "meatmaster"
+            },
+            "Fisherman": {},
+            "Speleologist": {},
+            "Archer": {},
+            "Knight": {},
+            "Scout": {},
+            "Baker": {},
+            "Astronaut": {
+                "cost": 75000
+            },
+            "Troll": {
+                "cost": 45000
+            },
+            "Creepertamer": {
+                "cost": 45000
+            },
+            "Wolftamer": {
+                "cost": 75000
+            },
+            "Rogue": {
+                "cost": 75000
+            },
+            "Slimey Slime": {
+                "cost": 45000,
+                "dbname": "slimeyslime"
+            },
+            "Blaze": {
+                "cost": 45000
+            },
+            "Toxicologist": {
+                "cost": 75000
+            },
+            "Arachnologist": {
+                "cost": 75000
+            },
+            "Red Dragon": {
+                "cost": 125000,
+                "dbname": "reddragon"
+            },
+            "Horsetamer": {
+                "cost": 235000
+            },
+            "Tim": {
+                "cost": 75000
+            },
+            "Necromancer": {
+                "cost": 75000
+            },
+            "Snowman": {
+                "cost": 385000,
+                "reqLevel": 55
+            }
+        },
+        "tauntability": 1000,
+        "blitzpowerups": {
+            "Apocalypse": {
+                "cost": 2200
+            },
+            "Assassin": {
+                "cost": 2200
+            },
+            "Dragonborn": {
+                "cost": 2200
+            },
+            "Explosion": {
+                "cost": 2200
+            },
+            "Imprison": {
+                "cost": 2200
+            },
+            "Fire Breather": {
+                "cost": 2200,
+                "dbname": "firebreather"
+            },
+            "Darknight": {
+                "cost": 2200,
+                "dbname": "darknight"
+            },
+            "Vault Hunter": {
+                "cost": 2200,
+                "dbname": "vaulthunter"
+            },
+            "Wither Warrior": {
+                "cost": 2200,
+                "dbname": "witherwarrior"
+            },
+            "Holy Warrior": {
+                "cost": 2200,
+                "dbname": "holywarrior"
+            },
+            "Robinhood": {
+                "cost": 2200
+            }
+        }
+    },
+    "Walls3": {
+        "classes": {
+            "Skeleton": {},
+            "Zombie": {},
+            "Creeper": {},
+            "Enderman": {},
+            "Herobrine": {},
+            "Spider": {},
+            "Dreadlord": {
+                "cost": 10000,
+                "hero": true
+            },
+            "Shaman": {
+                "cost": 10000,
+                "hero": true
+            },
+            "Arcanist": {
+                "cost": 10000,
+                "hero": true
+            },
+            "Golem": {
+                "cost": 10000,
+                "hero": true
+            },
+            "Blaze": {
+                "cost": 15000,
+                "hero": true
+            },
+            "Pigman": {
+                "cost": 15000,
+                "hero": true
+            }
+        },
+        "heromultiplier": 2,
+        "prestigecost": 250000,
+        "costs": [
+            0,
+            100,
+            250,
+            600,
+            1200,
+            3500,
+            6500,
+            8500,
+            14000
+        ]
+    },
+    "Arena": {
+        "skills": {
+            "offensive": {
+                "Boulder Toss": {
+                    "dbname": "boulder_toss",
+                    "cost": 2800,
+                    "energy": 80
+                },
+                "Cookie Shotgun": {
+                    "dbname": "cookie_shotgun",
+                    "cost": 12000,
+                    "energy": 60
+                },
+                "Fireball": {
+                    "cost": 0,
+                    "energy": 40
+                },
+                "Flame Breath": {
+                    "dbname": "flame_breath",
+                    "cost": 25000,
+                    "energy": 60
+                },
+                "Freezing Breath": {
+                    "dbname": "freezing_breath",
+                    "cost": 25000,
+                    "energy": 80
+                },
+                "Guided Pig 2000": {
+                    "cost": 0,
+                    "energy": 100
+                },
+                "Lightning Strike": {
+                    "dbname": "lightning_strike",
+                    "cost": 1200,
+                    "energy": 70
+                },
+                "Melon Launcher": {
+                    "dbname": "melon_launcher",
+                    "cost": 9000,
+                    "energy": 60
+                },
+                "Proximity Mine": {
+                    "dbname": "proximity_mine",
+                    "cost": 12000,
+                    "energy": 100
+                },
+                "Rocket Chicken": {
+                    "dbname": "rocket_chicken",
+                    "cost": 1000,
+                    "energy": 30
+                },
+                "Seismic Wave": {
+                    "dbname": "seismic_wave",
+                    "cost": 12000,
+                    "energy": 100
+                },
+                "Snowball": {
+                    "cost": 120,
+                    "energy": 20
+                }
+            },
+            "utility": {
+                "Barricade": {
+                    "cost": 600,
+                    "cooldown": 30
+                },
+                "Bull Charge": {
+                    "cost": 0,
+                    "cooldown": 40
+                },
+                "Golemfall": {
+                    "cost": 12000,
+                    "cooldown": 40
+                },
+                "Polymorph": {
+                    "cost": 12000,
+                    "cooldown": 40
+                },
+                "Shadow Step": {
+                    "dbname": "shadow_step",
+                    "cost": 3600,
+                    "cooldown": 40
+                },
+                "Swap": {
+                    "cost": 12000,
+                    "cooldown": 30
+                },
+                "Wall of Vines": {
+                    "dbname": "wall_of_vines",
+                    "cost": 3600,
+                    "cooldown": 30
+                }
+            },
+            "support": {
+                "Bone Shield": {
+                    "dbname": "bone_shield",
+                    "cost": 2400,
+                    "cooldown": 30
+                },
+                "Healing Totem": {
+                    "cost": 0,
+                    "cooldown": 40
+                },
+                "Holy Water": {
+                    "dbname": "holy_water",
+                    "cost": 600,
+                    "cooldown": 30
+                },
+                "Life Leech": {
+                    "dbname": "life_leech",
+                    "cost": 12000,
+                    "cooldown": 30
+                },
+                "Song of Power": {
+                    "dbname": "song_of_power",
+                    "cost": 4500,
+                    "cooldown": 60
+                },
+                "Star Shield": {
+                    "cost": 0,
+                    "cooldown": 45
+                },
+                "Tree of Life": {
+                    "dbname": "tree_of_life",
+                    "cost": 12000,
+                    "cooldown": 40
+                }
+            },
+            "ultimate": {
+                "Shield Wall": {
+                    "dbname": "shield_wall",
+                    "cost": 0
+                },
+                "Berserk": {
+                    "cost": 1200
+                },
+                "Broodmother": {
+                    "dbname": "arachnid",
+                    "cost": 25000
+                }
+            }
+        },
+        "runes": {}
+    },
+    "Paintball": {
+        "perks": {
+            "Endurance": {
+                "increment": 7500,
+                "max": 50
+            },
+            "Godfather": {
+                "increment": 5000,
+                "max": 50
+            },
+            "Superluck": [
+                250,
+                500,
+                750,
+                1000,
+                1250,
+                1500,
+                1750,
+                2000,
+                2500,
+                5000,
+                5500,
+                6000,
+                7000,
+                8000,
+                9000,
+                10000,
+                12500,
+                15000,
+                17500,
+                20000
+            ],
+            "Fortune": [
+                1000,
+                2000,
+                3000,
+                4000,
+                5000,
+                6000,
+                7000,
+                8000,
+                9000,
+                10000,
+                20000,
+                30000,
+                40000,
+                50000,
+                60000,
+                70000,
+                80000,
+                90000,
+                100000,
+                200000
+            ],
+            "HeadStart": [
+                10000,
+                25000,
+                45000,
+                75000,
+                100000
+            ]
+        },
+        "killstreaks": {
+            "Flashbang": {
+                "desc": "A smoke grenade with an area of effect",
+                "cost": 2500,
+                "killcoins": 2
+            },
+            "Tripleshot": {
+                "desc": "Throw three balls at once",
+                "cost": 2500,
+                "killcoins": 3
+            },
+            "Strongarm": {
+                "desc": "Throw more snowballs faster",
+                "cost": 0,
+                "killcoins": 4
+            },
+            "+3": {
+                "desc": "Regain 3 lives for your team",
+                "cost": 0,
+                "killcoins": 5
+            },
+            "CreeperHead": {
+                "desc": "Spawn creepers to fight for you",
+                "cost": 2500,
+                "killcoins": 8
+            },
+            "RAMBO": {
+                "desc": "Respawn instantly with no loss of lives",
+                "cost": 0,
+                "killcoins": 10
+            },
+            "TNTRain": {
+                "desc": "Rain TNT down on your enemies.",
+                "cost": 2500,
+                "killcoins": 10
+            },
+            "+10": {
+                "desc": "Regain 10 lives for your team.",
+                "cost": 2500,
+                "killcoins": 15,
+                "dbname": "plusten"
+            },
+            "Nuke": {
+                "desc": "Destroys the enemy team with 100% accuracy",
+                "cost": 5500,
+                "killcoins": 25
+            },
+            "Ammo": {
+                "desc": "Get a stack of 32 snowballs",
+                "cost": 0,
+                "killcoins": 3
+            },
+            "LEEROYJENKINS": {
+                "desc": "Spawn 30 chickens on the enemy spawn",
+                "cost": 0,
+                "killcoins": 5
+            },
+            "SuperStrongArm": {
+                "desc": "A stronger variant of strongarm",
+                "cost": 2500,
+                "killcoins": 9
+            },
+            "TeamAmmo": {
+                "desc": "32 paintballs for everyone in your team",
+                "cost": 0,
+                "killcoins": 10
+            },
+            "Revenge": {
+                "desc": "Kills the player who killed you last",
+                "cost": 0,
+                "killcoins": 8
+            },
+            "Lightning": {
+                "desc": "Strike down enemies within 10 blocks",
+                "cost": 2500,
+                "killcoins": 12
+            },
+            "Enderpearl": {
+                "desc": "Teleport to where you last died.",
+                "cost": 2500,
+                "killcoins": 15
+            },
+            "Endereye": {
+                "desc": "Swapplaceswitharandomenemy.",
+                "cost": 2500,
+                "killcoins": 15
+            },
+            "Forcefield": {
+                "desc": "Reflect paintballs for 15 seconds",
+                "cost": 6500,
+                "killcoins": 50
+            }
+        },
+        "hats": {
+            "TNT": {
+                "cost": 4200,
+                "dbname": "tnt_hat"
+            },
+            "Speed": {
+                "cost": 3000,
+                "dbname": "speed_hat"
+            },
+            "Snow": {
+                "cost": 4200,
+                "dbname": "snow_hat"
+            },
+            "Hard": {
+                "cost": 4200,
+                "dbname": "hard_hat"
+            },
+            "Ender": {
+                "cost": 4200,
+                "dbname": "ender_hat"
+            },
+            "Dark": {
+                "cost": 4200,
+                "dbname": "hat_of_darkness"
+            },
+            "Troll": {
+                "cost": 4200,
+                "dbname": "trololol_hat"
+            },
+            "Normal": {
+                "cost": 2000,
+                "dbname": "normal_hat"
+            },
+            "Drunk": {
+                "cost": 4200,
+                "dbname": "drunk_hat"
+            },
+            "Squid": {
+                "cost": 4200,
+                "dbname": "squid_hat"
+            },
+            "Spider": {
+                "cost": 4200,
+                "dbname": "spider_hat"
+            },
+            "Shaky": {
+                "cost": 4200,
+                "dbname": "shaky_hat"
+            },
+            "AgentK": {
+                "cost": 75000,
+                "dbname": "vip_agentk_hat"
+            },
+            "KevinKool": {
+                "cost": 75000,
+                "dbname": "vip_kevinkool_hat"
+            },
+            "Rezzus": {
+                "cost": 100000,
+                "dbname": "vip_rezzus_hat"
+            },
+            "Mystery": {
+                "cost": 75000,
+                "dbname": "vip_neonmaster_hat"
+            },
+            "hypixel": {
+                "cost": 75000,
+                "dbname": "vip_hypixel_hat"
+            },
+            "codename_b": {
+                "cost": 75000,
+                "dbname": "vip_codename_b_hat"
+            },
+            "PaintBallKitty": {
+                "cost": 75000,
+                "dbname": "vip_paintballkitty_hat"
+            }
+        },
+        "teams": {
+            "1": [
+                "red",
+                "yellow",
+                "orange",
+                "white"
+            ],
+            "2": [
+                "blue",
+                "aqua",
+                "green",
+                "purple"
+            ]
+        },
+        "maps": {
+            "Herobrine": {
+                "size": "large",
+                "players": 32,
+                "team": 2
+            },
+            "Victorian": {
+                "size": "large",
+                "players": 28,
+                "team": 1
+            },
+            "OhCanada": {
+                "size": "normal",
+                "players": 24,
+                "team": 1
+            },
+            "Swamps": {
+                "size": "normal",
+                "players": 16,
+                "team": 1
+            },
+            "Mansion": {
+                "size": "small",
+                "players": 16,
+                "team": 0
+            },
+            "Lalaland": {
+                "size": "normal",
+                "players": 24,
+                "team": 0
+            },
+            "Babyland": {
+                "size": "normal",
+                "players": 24,
+                "team": 1
+            },
+            "Juice": {
+                "size": "normal",
+                "players": 24,
+                "team": 2
+            },
+            "LaMente": {
+                "size": "medium",
+                "players": 24,
+                "team": 1
+            },
+            "Egypt": {
+                "size": "medium",
+                "players": 24,
+                "team": 2
+            }
+        }
+    }
+}
