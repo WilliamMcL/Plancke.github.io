@@ -113,35 +113,53 @@
     },
     "Walls3": {
         "classes": {
-            "Skeleton": {},
-            "Zombie": {},
-            "Creeper": {},
-            "Enderman": {},
-            "Herobrine": {},
-            "Spider": {},
+            "Skeleton": {
+                "head": "MHF_Skeleton"
+            },
+            "Zombie": {
+                "head": "MHF_Zombie"
+            },
+            "Creeper": {
+                "head": "MHF_Creeper"
+            },
+            "Enderman": {
+                "head": "MHF_Enderman"
+            },
+            "Herobrine": {
+                "head": "Herobrine"
+            },
+            "Spider": {
+                "head": "MHF_Spider"
+            },
             "Dreadlord": {
                 "cost": 10000,
-                "hero": true
+                "hero": true,
+                "head": "Banald"
             },
             "Shaman": {
                 "cost": 10000,
-                "hero": true
+                "hero": true,
+                "head": "Zumelos"
             },
             "Arcanist": {
                 "cost": 10000,
-                "hero": true
+                "hero": true,
+                "head": "Gonuld"
             },
             "Golem": {
                 "cost": 10000,
-                "hero": true
+                "hero": true,
+                "head": "MHF_Golem"
             },
             "Blaze": {
                 "cost": 15000,
-                "hero": true
+                "hero": true,
+                "head": "MHF_Blaze"
             },
             "Pigman": {
                 "cost": 15000,
-                "hero": true
+                "hero": true,
+                "head": "MHF_Pig"
             }
         },
         "heromultiplier": 2,
@@ -447,7 +465,7 @@
                 "killcoins": 15
             },
             "Endereye": {
-                "desc": "Swapplaceswitharandomenemy.",
+                "desc": "Swap places with a random enemy.",
                 "cost": 2500,
                 "killcoins": 15
             },
