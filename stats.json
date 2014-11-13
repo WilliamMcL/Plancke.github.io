@@ -40,7 +40,7 @@
             "finalKills_Golem": "Finals Golem",
             "finalKills_Blaze": "Finals Blaze",
             "finalKills_Pigman": "Finals Pigman",
-            "spacer": 1,"spacer": 1,
+            "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
                 "math": "%0 / %1",
