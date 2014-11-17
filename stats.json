@@ -1,4 +1,7 @@
 {
+    "Player Info": {
+
+    },
     "HungerGames": {
         "displayName": "Blitz Survival Games",
         "displayedFields": {
@@ -28,6 +31,7 @@
             "finalDeaths": "Final Deaths",
             "wins": "Wins",
             "losses": "Losses",
+            "spacer": 1,
             "finalKills_Skeleton": "Finals Skeleton",
             "finalKills_Zombie": "Finals Zombie",
             "finalKills_Creeper": "Finals Creeper",
@@ -40,7 +44,7 @@
             "finalKills_Golem": "Finals Golem",
             "finalKills_Blaze": "Finals Blaze",
             "finalKills_Pigman": "Finals Pigman",
-            "spacer": 1,
+            "spacer2": 1,
             "k/d": {
                 "type": "math",
                 "display": "Kill/Death Ratio",
