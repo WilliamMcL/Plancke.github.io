@@ -22,6 +22,7 @@
         "displayName": "MegaWalls",
         "displayedFields": {
             "coins": "Coins",
+            "chosen_class": "Current Class",
             "kills": "Kills",
             "deaths": "Deaths",
             "finalKills": "Final Kills",
