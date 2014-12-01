@@ -1,0 +1,27 @@
+{
+    "karma": {
+        "path": "karma",
+        "display": "Karma"
+    },
+    "timeplaying": {
+        "path": "timePlaying",
+        "display": "Time Playing"
+    },
+    "tipsreceived": {
+        "path": "tipsReceived",
+        "display": "Tips Received"
+    },
+    "thanksreceived": {
+        "path": "thanksReceived",
+        "display": "Thanks Received"
+    },
+    "networklevel": {
+        "path": "networkLevel",
+        "display": "Network Level",
+        "math": "{{VALUE}} + 1"
+    },
+    "stats.paintball.kills": {
+        "path": "stats.Paintball.kills",
+        "display": "Paintball Kills"
+    }
+}
