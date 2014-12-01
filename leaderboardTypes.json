@@ -23,5 +23,9 @@
     "stats.paintball.kills": {
         "path": "stats.Paintball.kills",
         "display": "Paintball Kills"
+    },
+    "stats.hungergames.kills": {
+        "path": "stats.HungerGames.kills",
+        "display": "BSG Kills"
     }
 }
