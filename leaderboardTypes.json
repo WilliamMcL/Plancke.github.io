@@ -121,6 +121,30 @@
             }
         ],
         "display": "Arena"
+    },
+    "stats.walls3": {
+        "fields": [
+            {
+                "path": "stats.Walls3.kills",
+                "display": "Kills"
+            },
+            {
+                "path": "stats.Walls3.finalKills",
+                "display": "Final Kills"
+            },
+            {
+                "path": "stats.Walls3.finalDeaths",
+                "display": "Final Deaths"
+            },
+            {
+                "path": "stats.Walls3.wins",
+                "display": "Wins"
+            },
+            {
+                "path": "stats.Walls3.losses",
+                "display": "Losses"
+            }
+        ],
+        "display": "Arena"
     }
-
 }
