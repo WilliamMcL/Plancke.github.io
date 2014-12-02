@@ -44,8 +44,7 @@
         "fields": [
             {
                 "path": "stats.Paintball.kills",
-                "display": "Kills",
-                "math": "{{VALUE}} + 1"
+                "display": "Kills"
             },
             {
                 "path": "stats.Paintball.wins",
