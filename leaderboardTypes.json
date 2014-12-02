@@ -47,6 +47,10 @@
                 "display": "Kills"
             },
             {
+                "path": "stats.Paintball.deaths",
+                "display": "Deaths"
+            },
+            {
                 "path": "stats.Paintball.wins",
                 "display": "Wins"
             }
