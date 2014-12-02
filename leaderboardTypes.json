@@ -26,6 +26,15 @@
         ],
         "display": "Tips received"
     },
+    "tipssent": {
+        "fields": [
+            {
+                "path": "tipsSent",
+                "display": "Tips Sent"
+            }
+        ],
+        "display": "Tips Sent"
+    },
     "thanksreceived": {
         "fields": [
             {
