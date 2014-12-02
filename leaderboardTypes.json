@@ -5,7 +5,8 @@
                 "path": "karma",
                 "display": "Karma"
             }
-        ]
+        ],
+        "display": "Karma"
     },
     "timeplaying": {
         "fields": [
@@ -13,7 +14,8 @@
                 "path": "timePlaying",
                 "display": "Time Playing"
             }
-        ]
+        ],
+        "display": "Time Playing"
     },
     "tipsreceived": {
         "fields": [
@@ -21,7 +23,8 @@
                 "path": "tipsReceived",
                 "display": "Tips Received"
             }
-        ]
+        ],
+        "display": "Tips received"
     },
     "thanksreceived": {
         "fields": [
@@ -29,7 +32,8 @@
                 "path": "thanksReceived",
                 "display": "Thanks Received"
             }
-        ]
+        ],
+        "display": "Thanks Received"
     },
     "networklevel": {
         "fields": [
@@ -38,7 +42,8 @@
                 "display": "Network Level",
                 "math": "{{VALUE}} + 1"
             }
-        ]
+        ],
+        "display": "Network LEvel"
     },
     "stats.paintball": {
         "fields": [
@@ -54,14 +59,25 @@
                 "path": "stats.Paintball.wins",
                 "display": "Wins"
             }
-        ]
+        ],
+        "display": "Paintball"
     },
-    "stats.hungergames.kills": {
+    "stats.hungergames": {
         "fields": [
             {
                 "path": "stats.HungerGames.kills",
-                "display": "BSG Kills"
+                "display": "Kills"
+            },
+            {
+                "path": "stats.HungerGames.deaths",
+                "display": "Deaths"
             }
-        ]
+            ,
+            {
+                "path": "stats.HungerGames.wins",
+                "display": "Wins"
+            }
+        ],
+        "display": "Blitz Survival Games"
     }
 }
