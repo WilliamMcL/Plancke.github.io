@@ -43,7 +43,7 @@
                 "math": "{{VALUE}} + 1"
             }
         ],
-        "display": "Network LEvel"
+        "display": "Network Level"
     },
     "stats.paintball": {
         "fields": [
