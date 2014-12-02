@@ -41,10 +41,11 @@
         ]
     },
     "stats.paintball": {
-        "fields": [
+        "fields": [,
             {
                 "path": "stats.Paintball.kills",
-                "display": "Kills"
+                "display": "Kills",
+                "math": "{{VALUE}} + 1"
             }, {
                 "path": "stats.Paintball.wins",
                 "display": "Wins"
