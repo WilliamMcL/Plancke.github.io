@@ -79,5 +79,39 @@
             }
         ],
         "display": "Blitz Survival Games"
+    },
+    "stats.arena": {
+        "fields": [
+            {
+                "path": "stats.Arena.rating",
+                "display": "Rating"
+            },
+            {
+                "path": "stats.Arena.kills_2v2",
+                "display": "Rating"
+            },
+            {
+                "path": "stats.Arena.kills_4v4",
+                "display": "Rating"
+            },
+            {
+                "path": "stats.Arena.deaths_2v2",
+                "display": "Rating"
+            },
+            {
+                "path": "stats.Arena.deaths_4v4",
+                "display": "Rating"
+            },
+            {
+                "path": "stats.Arena.wins_2v2",
+                "display": "Rating"
+            },
+            {
+                "path": "stats.Arena.wins_4v4",
+                "display": "Rating"
+            }
+        ],
+        "display": "Blitz Survival Games"
     }
+
 }
