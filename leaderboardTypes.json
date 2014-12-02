@@ -10,8 +10,8 @@
     "timeplaying": {
         "fields": [
             {
-            "path": "timePlaying",
-            "display": "Time Playing"
+                "path": "timePlaying",
+                "display": "Time Playing"
             }
         ]
     },
@@ -41,17 +41,17 @@
         ]
     },
     "stats.paintball": {
-        "fields": [,
+        "fields": [
             {
                 "path": "stats.Paintball.kills",
                 "display": "Kills",
                 "math": "{{VALUE}} + 1"
-            }, {
+            },
+            {
                 "path": "stats.Paintball.wins",
                 "display": "Wins"
             }
         ]
-
     },
     "stats.hungergames.kills": {
         "fields": [
