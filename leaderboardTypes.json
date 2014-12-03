@@ -154,34 +154,5 @@
             }
         ],
         "display": "Mega Walls"
-    },
-    "stats.walls3.dreadlord": {
-        "fields": [
-            {
-                "paths": ["stats.Walls3.kills_Dreadlord"],
-                "display": "Kills (Dreadlord)"
-            },
-            {
-                "paths": ["stats.Walls3.deaths_Dreadlord"],
-                "display": "Deaths (Dreadlord)"
-            },
-            {
-                "paths": ["stats.Walls3.finalKills_Dreadlord"],
-                "display": "Final Kills (Dreadlord)"
-            },
-            {
-                "paths": ["stats.Walls3.finalDeaths_Dreadlord"],
-                "display": "Final Deaths (Dreadlord)"
-            },
-            {
-                "paths": ["stats.Walls3.wins_Dreadlord"],
-                "display": "Wins (Dreadlord)"
-            },
-            {
-                "paths": ["stats.Walls3.losses_Dreadlord"],
-                "display": "Losses (Dreadlord)"
-            }
-        ],
-        "display": "MW DreadLord"
     }
 }
