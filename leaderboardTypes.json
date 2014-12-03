@@ -2,7 +2,7 @@
     "karma": {
         "fields": [
             {
-                "path": "karma",
+                "paths": ["karma"],
                 "display": "Karma"
             }
         ],
@@ -11,7 +11,7 @@
     "timeplaying": {
         "fields": [
             {
-                "path": "timePlaying",
+                "paths": ["timePlaying"],
                 "display": "Time Playing (minutes)"
             }
         ],
@@ -20,7 +20,7 @@
     "tipsreceived": {
         "fields": [
             {
-                "path": "tipsReceived",
+                "paths": ["tipsReceived"],
                 "display": "Tips Received"
             }
         ],
@@ -29,7 +29,7 @@
     "tipssent": {
         "fields": [
             {
-                "path": "tipsSent",
+                "paths": ["tipsSent"],
                 "display": "Tips Sent"
             }
         ],
@@ -38,7 +38,7 @@
     "thanksreceived": {
         "fields": [
             {
-                "path": "thanksReceived",
+                "paths": ["thanksReceived"],
                 "display": "Thanks Received"
             }
         ],
@@ -47,9 +47,9 @@
     "networklevel": {
         "fields": [
             {
-                "path": "networkLevel",
+                "paths": ["networkLevel"],
                 "display": "Network Level",
-                "math": "{{VALUE}} + 1"
+                "math": "{{1}} + 1"
             }
         ],
         "display": "Network Level"
@@ -57,15 +57,15 @@
     "stats.paintball": {
         "fields": [
             {
-                "path": "stats.Paintball.kills",
+                "paths": ["stats.Paintball.kills"],
                 "display": "Kills"
             },
             {
-                "path": "stats.Paintball.deaths",
+                "paths": ["stats.Paintball.deaths"],
                 "display": "Deaths"
             },
             {
-                "path": "stats.Paintball.wins",
+                "paths": ["stats.Paintball.wins"],
                 "display": "Wins"
             }
         ],
@@ -74,16 +74,15 @@
     "stats.hungergames": {
         "fields": [
             {
-                "path": "stats.HungerGames.kills",
+                "paths": ["stats.HungerGames.kills"],
                 "display": "Kills"
             },
             {
-                "path": "stats.HungerGames.deaths",
+                "paths": ["stats.HungerGames.deaths"],
                 "display": "Deaths"
-            }
-            ,
+            },
             {
-                "path": "stats.HungerGames.wins",
+                "paths": ["stats.HungerGames.wins"],
                 "display": "Wins"
             }
         ],
@@ -92,31 +91,31 @@
     "stats.arena": {
         "fields": [
             {
-                "path": "stats.Arena.rating",
+                "paths": ["stats.Arena.rating"],
                 "display": "Rating"
             },
             {
-                "path": "stats.Arena.kills_2v2",
+                "paths": ["stats.Arena.kills_2v2"],
                 "display": "Kills 2v2"
             },
             {
-                "path": "stats.Arena.kills_4v4",
+                "paths": ["stats.Arena.kills_4v4"],
                 "display": "Kills 4v4"
             },
             {
-                "path": "stats.Arena.deaths_2v2",
+                "paths": ["stats.Arena.deaths_2v2"],
                 "display": "Deaths 2v2"
             },
             {
-                "path": "stats.Arena.deaths_4v4",
+                "paths": ["stats.Arena.deaths_4v4"],
                 "display": "Deaths 4v4"
             },
             {
-                "path": "stats.Arena.wins_2v2",
+                "paths": ["stats.Arena.wins_2v2"],
                 "display": "Wins 2v2"
             },
             {
-                "path": "stats.Arena.wins_4v4",
+                "paths": ["stats.Arena.wins_4v4"],
                 "display": "Wins 4v4"
             }
         ],
@@ -125,23 +124,23 @@
     "stats.walls3": {
         "fields": [
             {
-                "path": "stats.Walls3.kills",
+                "paths": ["stats.Walls3.kills"],
                 "display": "Kills"
             },
             {
-                "path": "stats.Walls3.finalKills",
+                "paths": ["stats.Walls3.finalKills"],
                 "display": "Final Kills"
             },
             {
-                "path": "stats.Walls3.finalDeaths",
+                "paths": ["stats.Walls3.finalDeaths"],
                 "display": "Final Deaths"
             },
             {
-                "path": "stats.Walls3.wins",
+                "paths": ["stats.Walls3.wins"],
                 "display": "Wins"
             },
             {
-                "path": "stats.Walls3.losses",
+                "paths": ["stats.Walls3.losses"],
                 "display": "Losses"
             }
         ],
