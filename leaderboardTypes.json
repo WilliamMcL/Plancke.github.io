@@ -141,10 +141,6 @@
                 "display": "Final Kills"
             },
             {
-                "paths": ["stats.Walls3.finalDeaths"],
-                "display": "Final Deaths"
-            },
-            {
                 "paths": ["stats.Walls3.wins"],
                 "display": "Wins"
             },
@@ -155,33 +151,319 @@
         ],
         "display": "Mega Walls"
     },
-    "stats.walls3.dreadlord": {
+    "stats.walls3.shaman": {
         "fields": [
             {
-                "paths": ["stats.Walls3.kills_Dreadlord"],
-                "display": "Kills (Dreadlord)"
+                "paths": ["stats.Walls3.kills_Shaman"],
+                "display": "Kills (Shaman)"
             },
             {
-                "paths": ["stats.Walls3.deaths_Dreadlord"],
-                "display": "Deaths (Dreadlord)"
+                "paths": ["stats.Walls3.deaths_Shaman"],
+                "display": "Deaths (Shaman)"
             },
             {
-                "paths": ["stats.Walls3.finalKills_Dreadlord"],
-                "display": "Final Kills (Dreadlord)"
+                "paths": ["stats.Walls3.finalKills_Shaman"],
+                "display": "Final Kills (Shaman)"
             },
             {
-                "paths": ["stats.Walls3.finalDeaths_Dreadlord"],
-                "display": "Final Deaths (Dreadlord)"
+                "paths": ["stats.Walls3.wins_Shaman"],
+                "display": "Wins (Shaman)"
             },
             {
-                "paths": ["stats.Walls3.wins_Dreadlord"],
-                "display": "Wins (Dreadlord)"
-            },
-            {
-                "paths": ["stats.Walls3.losses_Dreadlord"],
-                "display": "Losses (Dreadlord)"
+                "paths": ["stats.Walls3.losses_Shaman"],
+                "display": "Losses (Shaman)"
             }
         ],
-        "display": "MW DreadLord"
+        "display": "MW Shaman"
+    },
+    "stats.walls3.golem": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Golem"],
+                "display": "Kills (Golem)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Golem"],
+                "display": "Deaths (Golem)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Golem"],
+                "display": "Final Kills (Golem)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Golem"],
+                "display": "Final Deaths (Golem)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Golem"],
+                "display": "Wins (Golem)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Golem"],
+                "display": "Losses (Golem)"
+            }
+        ],
+        "display": "MW Golem"
+    },
+    "stats.walls3.Blaze": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Blaze"],
+                "display": "Kills (Blaze)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Blaze"],
+                "display": "Deaths (Blaze)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Blaze"],
+                "display": "Final Kills (Blaze)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Blaze"],
+                "display": "Final Deaths (Blaze)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Blaze"],
+                "display": "Wins (Blaze)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Blaze"],
+                "display": "Losses (Blaze)"
+            }
+        ],
+        "display": "MW Blaze"
+    },
+    "stats.walls3.arcanist": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Arcanist"],
+                "display": "Kills (Arcanist)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Arcanist"],
+                "display": "Deaths (Arcanist)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Arcanist"],
+                "display": "Final Kills (Arcanist)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Arcanist"],
+                "display": "Final Deaths (Arcanist)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Arcanist"],
+                "display": "Wins (Arcanist)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Arcanist"],
+                "display": "Losses (Arcanist)"
+            }
+        ],
+        "display": "MW Arcanist"
+    },
+    "stats.walls3.pigman": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Pigman"],
+                "display": "Kills (Pigman)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Pigman"],
+                "display": "Deaths (Pigman)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Pigman"],
+                "display": "Final Kills (Pigman)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Pigman"],
+                "display": "Final Deaths (Pigman)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Pigman"],
+                "display": "Wins (Pigman)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Pigman"],
+                "display": "Losses (Pigman)"
+            }
+        ],
+        "display": "MW Pigman"
+    },
+    "stats.walls3.skeleton": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Skeleton"],
+                "display": "Kills (Skeleton)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Skeleton"],
+                "display": "Deaths (Skeleton)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Skeleton"],
+                "display": "Final Kills (Skeleton)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Skeleton"],
+                "display": "Final Deaths (Skeleton)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Skeleton"],
+                "display": "Wins (Skeleton)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Skeleton"],
+                "display": "Losses (Skeleton)"
+            }
+        ],
+        "display": "MW Skeleton"
+    },
+    "stats.walls3.zombie": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Zombie"],
+                "display": "Kills (Zombie)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Zombie"],
+                "display": "Deaths (Zombie)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Zombie"],
+                "display": "Final Kills (Zombie)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Zombie"],
+                "display": "Final Deaths (Zombie)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Zombie"],
+                "display": "Wins (Zombie)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Zombie"],
+                "display": "Losses (Zombie)"
+            }
+        ],
+        "display": "MW Zombie"
+    },
+    "stats.walls3.spider": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Spider"],
+                "display": "Kills (Spider)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Spider"],
+                "display": "Deaths (Spider)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Spider"],
+                "display": "Final Kills (Spider)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Spider"],
+                "display": "Final Deaths (Spider)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Spider"],
+                "display": "Wins (Spider)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Spider"],
+                "display": "Losses (Spider)"
+            }
+        ],
+        "display": "MW Spider"
+    },
+    "stats.walls3.enderman": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Enderman"],
+                "display": "Kills (Enderman)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Enderman"],
+                "display": "Deaths (Enderman)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Enderman"],
+                "display": "Final Kills (Enderman)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Enderman"],
+                "display": "Final Deaths (Enderman)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Enderman"],
+                "display": "Wins (Enderman)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Enderman"],
+                "display": "Losses (Enderman)"
+            }
+        ],
+        "display": "MW Enderman"
+    },
+    "stats.walls3.creeper": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Creeper"],
+                "display": "Kills (Creeper)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Creeper"],
+                "display": "Deaths (Creeper)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Creeper"],
+                "display": "Final Kills (Creeper)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Creeper"],
+                "display": "Final Deaths (Creeper)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Creeper"],
+                "display": "Wins (Creeper)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Creeper"],
+                "display": "Losses (Creeper)"
+            }
+        ],
+        "display": "MW Creeper"
+    },
+    "stats.walls3.herobrine": {
+        "fields": [
+            {
+                "paths": ["stats.Walls3.kills_Herobrine"],
+                "display": "Kills (Herobrine)"
+            },
+            {
+                "paths": ["stats.Walls3.deaths_Herobrine"],
+                "display": "Deaths (Herobrine)"
+            },
+            {
+                "paths": ["stats.Walls3.finalKills_Herobrine"],
+                "display": "Final Kills (Herobrine)"
+            },
+            {
+                "paths": ["stats.Walls3.finalDeaths_Herobrine"],
+                "display": "Final Deaths (Herobrine)"
+            },
+            {
+                "paths": ["stats.Walls3.wins_Herobrine"],
+                "display": "Wins (Herobrine)"
+            },
+            {
+                "paths": ["stats.Walls3.losses_Herobrine"],
+                "display": "Losses (Herobrine)"
+            }
+        ],
+        "display": "MW Herobrine"
     }
 }
