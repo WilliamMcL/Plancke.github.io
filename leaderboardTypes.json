@@ -226,7 +226,7 @@
         ],
         "display": "MW Golem"
     },
-    "stats.walls3.Blaze": {
+    "stats.walls3.blaze": {
         "fields": [
             {
                 "paths": ["stats.Walls3.kills_Blaze"],
