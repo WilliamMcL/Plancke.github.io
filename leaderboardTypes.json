@@ -129,6 +129,14 @@
     "stats.walls3": {
         "fields": [
             {
+                "paths": ["stats.Walls3.wins"],
+                "display": "Wins"
+            },
+            {
+                "paths": ["stats.Walls3.losses"],
+                "display": "Losses"
+            },
+            {
                 "paths": ["stats.Walls3.kills"],
                 "display": "Kills"
             },
@@ -139,14 +147,6 @@
             {
                 "paths": ["stats.Walls3.finalKills"],
                 "display": "Final Kills"
-            },
-            {
-                "paths": ["stats.Walls3.wins"],
-                "display": "Wins"
-            },
-            {
-                "paths": ["stats.Walls3.losses"],
-                "display": "Losses"
             }
         ],
         "display": "Mega Walls"
