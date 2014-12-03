@@ -12,7 +12,7 @@
         "fields": [
             {
                 "path": "timePlaying",
-                "display": "Time Playing"
+                "display": "Time Playing (minutes)"
             }
         ],
         "display": "Time Playing"
