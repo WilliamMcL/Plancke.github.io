@@ -74,6 +74,11 @@
                 "display": "Wins"
             },
             {
+                "paths": ["stats.Paintball.shots","stats.Paintball.kills"],
+                "display": "s/k",
+                "math": "{{0}} / {{1}}"
+            },
+            {
                 "paths": ["stats.Paintball.fortune"],
                 "display": "Fortune",
                 "math": "{{0}} + 1"
