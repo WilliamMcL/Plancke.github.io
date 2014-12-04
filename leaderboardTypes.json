@@ -74,7 +74,7 @@
                 "display": "Wins"
             },
             {
-                "paths": ["stats.Paintball.shots","stats.Paintball.kills"],
+                "paths": ["stats.Paintball.shots_fired","stats.Paintball.kills"],
                 "display": "s/k",
                 "math": "{{0}} / {{1}}"
             },
