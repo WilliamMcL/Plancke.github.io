@@ -114,6 +114,11 @@
             {
                 "paths": ["stats.HungerGames.wins"],
                 "display": "Wins"
+            },
+            {
+                "paths": ["stats.HungerGames.wins", "stats.HungerGames.deaths"],
+                "display": "Total Games",
+                "math": "{{0}} + {{1}}"
             }
         ],
         "display": "Blitz Survival Games"
