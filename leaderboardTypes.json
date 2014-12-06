@@ -128,6 +128,48 @@
         ],
         "display": "Quake"
     },
+    "stats.tnt.run": {
+        "fields": [
+            {
+                "paths": ["stats.TNTGames.wins_tntrun"],
+                "display": "Wins"
+            },
+            {
+                "paths": ["stats.TNTGames.doublejump_tntrun"],
+                "display": "Double Jumps",
+                "math": "{{0}} + 1"
+            }
+        ],
+        "display": "TNT Run"
+    },
+    "stats.tnt.bowspleef": {
+        "fields": [
+            {
+                "paths": ["stats.TNTGames.wins_bowspleef"],
+                "display": "Wins"
+            },
+            {
+                "paths": ["stats.TNTGames.deaths_bowspleef"],
+                "display": "Losses"
+            },
+            {
+                "paths": ["stats.TNTGames.spleef_doublejump"],
+                "display": "Double Jump",
+                "math": "{{0}} + 1"
+            },
+            {
+                "paths": ["stats.TNTGames.spleef_repulse"],
+                "display": "Repulsor",
+                "math": "{{0}} + 1"
+            },
+            {
+                "paths": ["stats.TNTGames.spleef_triple"],
+                "display": "Triple Shot",
+                "math": "{{0}} + 1"
+            }
+        ],
+        "display": "TNT Bowspleef"
+    },
     "stats.hungergames": {
         "fields": [
             {
