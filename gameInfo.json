@@ -14,9 +14,7 @@
         ],
         "kits": {
             "Armorer": {},
-            "Meat Master": {
-                "dbname": "meatmaster"
-            },
+            "Meat Master": {},
             "Fisherman": {},
             "Speleologist": {},
             "Archer": {},
@@ -39,8 +37,7 @@
                 "cost": 75000
             },
             "Slimey Slime": {
-                "cost": 45000,
-                "dbname": "slimeyslime"
+                "cost": 45000
             },
             "Blaze": {
                 "cost": 45000
@@ -52,8 +49,7 @@
                 "cost": 75000
             },
             "Red Dragon": {
-                "cost": 125000,
-                "dbname": "reddragon"
+                "cost": 125000
             },
             "Horsetamer": {
                 "cost": 235000
@@ -411,7 +407,7 @@
                 "cost": 2500,
                 "killcoins": 2
             },
-            "Tripleshot": {
+            "Triple Shot": {
                 "desc": "Throw three balls at once",
                 "cost": 2500,
                 "killcoins": 3
@@ -426,7 +422,7 @@
                 "cost": 0,
                 "killcoins": 5
             },
-            "CreeperHead": {
+            "Creeper Head": {
                 "desc": "Spawn creepers to fight for you",
                 "cost": 2500,
                 "killcoins": 8
@@ -436,7 +432,7 @@
                 "cost": 0,
                 "killcoins": 10
             },
-            "TNTRain": {
+            "TNT Rain": {
                 "desc": "Rain TNT down on your enemies.",
                 "cost": 2500,
                 "killcoins": 10
@@ -462,15 +458,15 @@
                 "cost": 0,
                 "killcoins": 5
             },
-            "SuperStrongArm": {
+            "Super Strong Arm": {
                 "desc": "A stronger variant of strongarm",
                 "cost": 2500,
                 "killcoins": 9
             },
-            "TeamAmmo": {
+            "Team Ammo": {
                 "desc": "32 paintballs for everyone in your team",
                 "cost": 0,
-                "killcoins": 10
+                "killcoins": 5
             },
             "Revenge": {
                 "desc": "Kills the player who killed you last",
@@ -492,10 +488,35 @@
                 "cost": 2500,
                 "killcoins": 15
             },
-            "Forcefield": {
+            "Force Field": {
                 "desc": "Reflect paintballs for 15 seconds",
                 "cost": 6500,
                 "killcoins": 50
+            },
+            "Bomber Man": {
+                "desc": "Explode all enemies within 20 blocks, also kills yourself!",
+                "cost": 2500,
+                "killcoins": 20
+            },
+            "Backstab": {
+                "desc": "Teleport to where your next kill dies",
+                "cost": 2500,
+                "killcoins": 7
+            },
+            "Sentry": {
+                "desc": "Spawn a Sentry that kills for you!",
+                "cost": 2500,
+                "killcoins": 10
+            },
+            "Quintuple Shot": {
+                "desc": "Shoot 5 paintballs at once",
+                "cost": 5000,
+                "killcoins": 9
+            },
+            "Landmine": {
+                "desc": "Spawn a Landmine where you're standing.",
+                "cost": 2500,
+                "killcoins": 5
             }
         },
         "hats": {
