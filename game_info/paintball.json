@@ -146,7 +146,7 @@
     "Revenge": {
       "desc": "Kills the player who killed you last",
       "cost": 0,
-      "killcoins": 8
+      "killcoins": 10
     },
     "Lightning": {
       "desc": "Strike down enemies within 10 blocks",
