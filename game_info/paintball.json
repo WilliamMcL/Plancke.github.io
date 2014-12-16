@@ -270,6 +270,14 @@
     "PaintBallKitty": {
       "cost": 75000,
       "dbname": "vip_paintballkitty_hat"
+    },
+    "NoxyD": {
+      "cost": 50000,
+      "dbname": "vip_noxyd_hat"
+    },
+    "Ghost": {
+      "cost": 50000,
+      "dbname": "vip_ghost_hat"
     }
   },
   "teams": {
