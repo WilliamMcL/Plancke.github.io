@@ -1,110 +1,108 @@
 {
-  "HungerGames": {
-    "kitprices": [
-      0,
-      100,
-      1000,
-      2000,
-      4000,
-      16000,
-      50000,
-      100000,
-      250000,
-      1000000
-    ],
-    "kits": {
-      "Armorer": {},
-      "Meat Master": {},
-      "Fisherman": {},
-      "Speleologist": {},
-      "Archer": {},
-      "Knight": {},
-      "Scout": {},
-      "Baker": {},
-      "Astronaut": {
-        "cost": 75000
-      },
-      "Troll": {
-        "cost": 45000
-      },
-      "Creepertamer": {
-        "cost": 45000
-      },
-      "Wolftamer": {
-        "cost": 75000
-      },
-      "Rogue": {
-        "cost": 75000
-      },
-      "Slimey Slime": {
-        "cost": 45000
-      },
-      "Blaze": {
-        "cost": 45000
-      },
-      "Toxicologist": {
-        "cost": 75000
-      },
-      "Arachnologist": {
-        "cost": 75000
-      },
-      "Red Dragon": {
-        "cost": 125000
-      },
-      "Horsetamer": {
-        "cost": 235000
-      },
-      "Tim": {
-        "cost": 75000
-      },
-      "Necromancer": {
-        "cost": 75000
-      },
-      "Snowman": {
-        "cost": 385000,
-        "reqLevel": 55
-      }
+  "kitprices": [
+    0,
+    100,
+    1000,
+    2000,
+    4000,
+    16000,
+    50000,
+    100000,
+    250000,
+    1000000
+  ],
+  "kits": {
+    "Armorer": {},
+    "Meat Master": {},
+    "Fisherman": {},
+    "Speleologist": {},
+    "Archer": {},
+    "Knight": {},
+    "Scout": {},
+    "Baker": {},
+    "Astronaut": {
+      "cost": 75000
     },
-    "tauntability": 1000,
-    "blitzpowerups": {
-      "Apocalypse": {
-        "cost": 2200
-      },
-      "Assassin": {
-        "cost": 2200
-      },
-      "Dragonborn": {
-        "cost": 2200
-      },
-      "Explosion": {
-        "cost": 2200
-      },
-      "Imprison": {
-        "cost": 2200
-      },
-      "Fire Breather": {
-        "cost": 2200,
-        "dbname": "firebreather"
-      },
-      "Darknight": {
-        "cost": 2200,
-        "dbname": "darknight"
-      },
-      "Vault Hunter": {
-        "cost": 2200,
-        "dbname": "vaulthunter"
-      },
-      "Wither Warrior": {
-        "cost": 2200,
-        "dbname": "witherwarrior"
-      },
-      "Holy Warrior": {
-        "cost": 2200,
-        "dbname": "holywarrior"
-      },
-      "Robinhood": {
-        "cost": 2200
-      }
+    "Troll": {
+      "cost": 45000
+    },
+    "Creepertamer": {
+      "cost": 45000
+    },
+    "Wolftamer": {
+      "cost": 75000
+    },
+    "Rogue": {
+      "cost": 75000
+    },
+    "Slimey Slime": {
+      "cost": 45000
+    },
+    "Blaze": {
+      "cost": 45000
+    },
+    "Toxicologist": {
+      "cost": 75000
+    },
+    "Arachnologist": {
+      "cost": 75000
+    },
+    "Red Dragon": {
+      "cost": 125000
+    },
+    "Horsetamer": {
+      "cost": 235000
+    },
+    "Tim": {
+      "cost": 75000
+    },
+    "Necromancer": {
+      "cost": 75000
+    },
+    "Snowman": {
+      "cost": 385000,
+      "reqLevel": 55
+    }
+  },
+  "tauntability": 1000,
+  "blitzpowerups": {
+    "Apocalypse": {
+      "cost": 2200
+    },
+    "Assassin": {
+      "cost": 2200
+    },
+    "Dragonborn": {
+      "cost": 2200
+    },
+    "Explosion": {
+      "cost": 2200
+    },
+    "Imprison": {
+      "cost": 2200
+    },
+    "Fire Breather": {
+      "cost": 2200,
+      "dbname": "firebreather"
+    },
+    "Darknight": {
+      "cost": 2200,
+      "dbname": "darknight"
+    },
+    "Vault Hunter": {
+      "cost": 2200,
+      "dbname": "vaulthunter"
+    },
+    "Wither Warrior": {
+      "cost": 2200,
+      "dbname": "witherwarrior"
+    },
+    "Holy Warrior": {
+      "cost": 2200,
+      "dbname": "holywarrior"
+    },
+    "Robinhood": {
+      "cost": 2200
     }
   }
 }

@@ -1,74 +1,72 @@
 {
-  "Walls3": {
-    "classes": {
-      "Skeleton": {
-        "head": "MHF_Skeleton"
-      },
-      "Zombie": {
-        "head": "MHF_Zombie"
-      },
-      "Creeper": {
-        "head": "MHF_Creeper"
-      },
-      "Enderman": {
-        "head": "MHF_Enderman"
-      },
-      "Herobrine": {
-        "head": "MHF_Herobrine"
-      },
-      "Spider": {
-        "head": "MHF_Spider"
-      },
-      "Dreadlord": {
-        "cost": 10000,
-        "hero": true,
-        "head": "Banald"
-      },
-      "Shaman": {
-        "cost": 10000,
-        "hero": true,
-        "head": "Zumelos"
-      },
-      "Arcanist": {
-        "cost": 10000,
-        "hero": true,
-        "head": "Gonuld"
-      },
-      "Golem": {
-        "cost": 10000,
-        "hero": true,
-        "head": "MHF_Golem"
-      },
-      "Blaze": {
-        "cost": 15000,
-        "hero": true,
-        "head": "MHF_Blaze"
-      },
-      "Pigman": {
-        "cost": 15000,
-        "hero": true,
-        "head": "MHF_Pig"
-      }
+  "classes": {
+    "Skeleton": {
+      "head": "MHF_Skeleton"
     },
-    "heromultiplier": 2,
-    "prestigecost": 250000,
-    "costs": [
-      0,
-      100,
-      250,
-      600,
-      1200,
-      3500,
-      6500,
-      8500,
-      14000
-    ],
-    "classFields": [
-      "a",
-      "b",
-      "c",
-      "d",
-      "g"
-    ]
-  }
+    "Zombie": {
+      "head": "MHF_Zombie"
+    },
+    "Creeper": {
+      "head": "MHF_Creeper"
+    },
+    "Enderman": {
+      "head": "MHF_Enderman"
+    },
+    "Herobrine": {
+      "head": "MHF_Herobrine"
+    },
+    "Spider": {
+      "head": "MHF_Spider"
+    },
+    "Dreadlord": {
+      "cost": 10000,
+      "hero": true,
+      "head": "Banald"
+    },
+    "Shaman": {
+      "cost": 10000,
+      "hero": true,
+      "head": "Zumelos"
+    },
+    "Arcanist": {
+      "cost": 10000,
+      "hero": true,
+      "head": "Gonuld"
+    },
+    "Golem": {
+      "cost": 10000,
+      "hero": true,
+      "head": "MHF_Golem"
+    },
+    "Blaze": {
+      "cost": 15000,
+      "hero": true,
+      "head": "MHF_Blaze"
+    },
+    "Pigman": {
+      "cost": 15000,
+      "hero": true,
+      "head": "MHF_Pig"
+    }
+  },
+  "heromultiplier": 2,
+  "prestigecost": 250000,
+  "costs": [
+    0,
+    100,
+    250,
+    600,
+    1200,
+    3500,
+    6500,
+    8500,
+    14000
+  ],
+  "classFields": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "g"
+  ]
 }
