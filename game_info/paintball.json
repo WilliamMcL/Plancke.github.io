@@ -136,7 +136,7 @@
     "Super Strong Arm": {
       "desc": "A stronger variant of strongarm",
       "cost": 2500,
-      "killcoins": 9
+      "killcoins": 7
     },
     "Team Ammo": {
       "desc": "32 paintballs for everyone in your team",
@@ -191,7 +191,7 @@
     "Landmine": {
       "desc": "Spawn a Landmine where you're standing.",
       "cost": 2500,
-      "killcoins": 5
+      "killcoins": 3
     }
   },
   "hats": {
