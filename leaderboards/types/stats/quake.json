@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Quake.kills"],
+      "display": "Kills"
+    },
+    {
+      "paths": ["stats.Quake.deaths"],
+      "display": "Deaths"
+    },
+    {
+      "paths": [
+        "stats.Quake.kills",
+        "stats.Quake.deaths"
+      ],
+      "display": "k/d",
+      "math": "{{0}} / {{1}}"
+    },
+    {
+      "paths": ["stats.Quake.wins"],
+      "display": "Wins"
+    },
+    {
+      "paths": ["stats.Quake.killstreaks"],
+      "display": "Killstreaks",
+      "math": "{{0}} + 1"
+    }
+  ]
+}

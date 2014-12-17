@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Walls3.finalKills_Herobrine"],
+      "display": "Final Kills (Herobrine)"
+    },
+    {
+      "paths": ["stats.Walls3.kills_Herobrine"],
+      "display": "Kills (Herobrine)"
+    },
+    {
+      "paths": ["stats.Walls3.deaths_Herobrine"],
+      "display": "Deaths (Herobrine)"
+    },
+    {
+      "paths": ["stats.Walls3.wins_Herobrine"],
+      "display": "Wins (Herobrine)"
+    },
+    {
+      "paths": ["stats.Walls3.losses_Herobrine"],
+      "display": "Losses (Herobrine)"
+    }
+  ]
+}

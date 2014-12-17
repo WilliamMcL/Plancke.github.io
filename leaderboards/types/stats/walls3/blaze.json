@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Walls3.finalKills_Blaze"],
+      "display": "Final Kills (Blaze)"
+    },
+    {
+      "paths": ["stats.Walls3.kills_Blaze"],
+      "display": "Kills (Blaze)"
+    },
+    {
+      "paths": ["stats.Walls3.deaths_Blaze"],
+      "display": "Deaths (Blaze)"
+    },
+    {
+      "paths": ["stats.Walls3.wins_Blaze"],
+      "display": "Wins (Blaze)"
+    },
+    {
+      "paths": ["stats.Walls3.losses_Blaze"],
+      "display": "Losses (Blaze)"
+    }
+  ]
+}

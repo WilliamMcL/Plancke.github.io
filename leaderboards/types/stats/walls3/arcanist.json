@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Walls3.finalKills_Arcanist"],
+      "display": "Final Kills (Arcanist)"
+    },
+    {
+      "paths": ["stats.Walls3.kills_Arcanist"],
+      "display": "Kills (Arcanist)"
+    },
+    {
+      "paths": ["stats.Walls3.deaths_Arcanist"],
+      "display": "Deaths (Arcanist)"
+    },
+    {
+      "paths": ["stats.Walls3.wins_Arcanist"],
+      "display": "Wins (Arcanist)"
+    },
+    {
+      "paths": ["stats.Walls3.losses_Arcanist"],
+      "display": "Losses (Arcanist)"
+    }
+  ]
+}

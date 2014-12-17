@@ -1,0 +1,8 @@
+{
+  "fields": [
+    {
+      "paths": ["tipsSent"],
+      "display": "Tips Sent"
+    }
+  ]
+}

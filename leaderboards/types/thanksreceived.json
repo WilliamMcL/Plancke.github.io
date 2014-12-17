@@ -1,0 +1,8 @@
+{
+  "fields": [
+    {
+      "paths": ["thanksReceived"],
+      "display": "Thanks Received"
+    }
+  ]
+}

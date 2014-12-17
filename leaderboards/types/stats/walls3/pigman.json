@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Walls3.finalKills_Pigman"],
+      "display": "Final Kills (Pigman)"
+    },
+    {
+      "paths": ["stats.Walls3.kills_Pigman"],
+      "display": "Kills (Pigman)"
+    },
+    {
+      "paths": ["stats.Walls3.deaths_Pigman"],
+      "display": "Deaths (Pigman)"
+    },
+    {
+      "paths": ["stats.Walls3.wins_Pigman"],
+      "display": "Wins (Pigman)"
+    },
+    {
+      "paths": ["stats.Walls3.losses_Pigman"],
+      "display": "Losses (Pigman)"
+    }
+  ]
+}

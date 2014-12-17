@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Walls3.finalKills_Creeper"],
+      "display": "Final Kills (Creeper)"
+    },
+    {
+      "paths": ["stats.Walls3.kills_Creeper"],
+      "display": "Kills (Creeper)"
+    },
+    {
+      "paths": ["stats.Walls3.deaths_Creeper"],
+      "display": "Deaths (Creeper)"
+    },
+    {
+      "paths": ["stats.Walls3.wins_Creeper"],
+      "display": "Wins (Creeper)"
+    },
+    {
+      "paths": ["stats.Walls3.losses_Creeper"],
+      "display": "Losses (Creeper)"
+    }
+  ]
+}

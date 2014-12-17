@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Walls3.finalKills_Shaman"],
+      "display": "Final Kills (Shaman)"
+    },
+    {
+      "paths": ["stats.Walls3.kills_Shaman"],
+      "display": "Kills (Shaman)"
+    },
+    {
+      "paths": ["stats.Walls3.deaths_Shaman"],
+      "display": "Deaths (Shaman)"
+    },
+    {
+      "paths": ["stats.Walls3.wins_Shaman"],
+      "display": "Wins (Shaman)"
+    },
+    {
+      "paths": ["stats.Walls3.losses_Shaman"],
+      "display": "Losses (Shaman)"
+    }
+  ]
+}

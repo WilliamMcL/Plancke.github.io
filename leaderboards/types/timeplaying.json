@@ -1,0 +1,8 @@
+{
+  "fields": [
+    {
+      "paths": ["timePlaying"],
+      "display": "Time Playing (minutes)"
+    }
+  ]
+}

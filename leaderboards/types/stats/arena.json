@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "paths": ["stats.Arena.rating"],
+      "display": "Rating"
+    },
+    {
+      "paths": ["stats.Arena.kills_2v2"],
+      "display": "Kills 2v2"
+    },
+    {
+      "paths": ["stats.Arena.kills_4v4"],
+      "display": "Kills 4v4"
+    },
+    {
+      "paths": ["stats.Arena.deaths_2v2"],
+      "display": "Deaths 2v2"
+    },
+    {
+      "paths": ["stats.Arena.deaths_4v4"],
+      "display": "Deaths 4v4"
+    },
+    {
+      "paths": ["stats.Arena.wins_2v2"],
+      "display": "Wins 2v2"
+    },
+    {
+      "paths": ["stats.Arena.wins_4v4"],
+      "display": "Wins 4v4"
+    }
+  ]
+}
