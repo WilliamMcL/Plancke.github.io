@@ -10,16 +10,19 @@
     },
     {
       "paths": ["stats.TNTGames.spleef_doublejump"],
+      "defaults": [1],
       "display": "Double Jump",
       "math": "{{0}} + 1"
     },
     {
       "paths": ["stats.TNTGames.spleef_repulse"],
+      "defaults": [1],
       "display": "Repulsor",
       "math": "{{0}} + 1"
     },
     {
       "paths": ["stats.TNTGames.spleef_triple"],
+      "defaults": [1],
       "display": "Triple Shot",
       "math": "{{0}} + 1"
     }

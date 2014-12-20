@@ -6,6 +6,7 @@
     },
     {
       "paths": ["stats.TNTGames.doublejump_tntrun"],
+      "defaults": [1],
       "display": "Double Jumps",
       "math": "{{0}} + 1"
     }
