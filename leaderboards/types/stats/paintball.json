@@ -15,16 +15,16 @@
       "display": "Killstreaks"
     },
     {
+      "paths": ["stats.Paintball.wins"],
+      "display": "Wins"
+    },
+    {
       "paths": [
         "stats.Paintball.kills",
         "stats.Paintball.deaths"
       ],
       "display": "k/d",
       "math": "{{0}} / {{1}}"
-    },
-    {
-      "paths": ["stats.Paintball.wins"],
-      "display": "Wins"
     },
     {
       "paths": [
