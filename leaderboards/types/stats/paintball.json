@@ -10,6 +10,12 @@
     },
     {
       "paths": [
+        "stats.Paintball.killstreaks"
+      ],
+      "display": "killstreaks",
+    },
+    {
+      "paths": [
         "stats.Paintball.kills",
         "stats.Paintball.deaths"
       ],
@@ -27,26 +33,6 @@
       ],
       "display": "s/k",
       "math": "{{0}} / {{1}}"
-    },
-    {
-      "paths": ["stats.Paintball.fortune"],
-      "display": "Fortune",
-      "math": "{{0}} + 1"
-    },
-    {
-      "paths": ["stats.Paintball.superluck"],
-      "display": "Superluck",
-      "math": "{{0}} + 1"
-    },
-    {
-      "paths": ["stats.Paintball.endurance"],
-      "display": "Endurance",
-      "math": "{{0}} + 1"
-    },
-    {
-      "paths": ["stats.Paintball.godfather"],
-      "display": "Godfather",
-      "math": "{{0}} + 1"
     }
   ]
 }
