@@ -1,9 +1,0 @@
-{
-  "fields": [
-    {
-      "paths": ["networkLevel"],
-      "display": "Network Level",
-      "math": "{{0}} + 1"
-    }
-  ]
-}
