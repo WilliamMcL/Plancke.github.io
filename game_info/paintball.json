@@ -181,7 +181,7 @@
     "Sentry": {
       "desc": "Spawn a Sentry that kills for you!",
       "cost": 2500,
-      "killcoins": 10
+      "killcoins": 7
     },
     "Quintuple Shot": {
       "desc": "Shoot 5 paintballs at once",
