@@ -18,6 +18,27 @@
             }
         }
     },
+    "UHC": {
+        "displayName": "UHC Champions",
+        "displayedFields": {
+            "coins": "Coins",
+            "equippedKit": "Current Kit",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "wins": "Wins",
+            "score": "Score",
+            "spacer": 1,
+            "k/d": {
+                "type": "math",
+                "display": "Kill/Death Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "kills",
+                    "deaths"
+                ]
+            }
+        }
+    },
     "Walls3": {
         "displayName": "MegaWalls",
         "displayedFields": {
