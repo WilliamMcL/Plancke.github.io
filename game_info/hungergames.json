@@ -20,6 +20,8 @@
     "Knight": {},
     "Scout": {},
     "Baker": {},
+    "Pigman": {},
+    "Hunter": {},
     "Astronaut": {
       "cost": 75000
     },
